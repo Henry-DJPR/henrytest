@@ -13,3 +13,4 @@ Imports:
     dplyr
 Suggests: 
     tidyverse
+RoxygenNote: 7.1.2
